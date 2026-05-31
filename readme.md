@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Jamaluddin Mohammed
+# Hi there 👋, I'm Jamal
 
 ### 🚀 Engineering Student | Full Stack Developer | Problem Solver
 
@@ -59,9 +59,9 @@ Welcome to my GitHub profile! I'm passionate about building scalable application
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdjamal001&show_icons=true&theme=tokyonight"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdjamal001&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -69,18 +69,8 @@ Welcome to my GitHub profile! I'm passionate about building scalable application
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdjamal001&theme=tokyonight"/>
 </p>
-
----
-
-## 🎯 Current Focus
-
-- Data Structures & Algorithms
-- Full Stack Development
-- System Design
-- Open Source Contributions
-- AI & Generative AI
 
 ---
 
