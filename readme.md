@@ -8,45 +8,14 @@ Welcome to my GitHub profile! I'm passionate about building scalable application
 
 ---
 
-## 📫 Connect With Me
+## Connect with me:
 
 <p align="left">
-  <a href="mailto:jamalmd2305@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="32" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.linkedin.com/in/mohammed-jamaluddin-4a1794316/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="32" />
-  </a>
+<a href="linkedin.com/in/mohammed-jamaluddin-4a1794316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="J" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="J" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="J" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="J" height="30" width="40" /></a>
 </p>
-
----
-
-## 💻 Coding Profiles
-
-<p align="left">
-  <a href="https://leetcode.com/u/YOUR_USERNAME/">
-    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png"
-         alt="LeetCode"
-         width="32" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME/">
-    <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg"
-         alt="GeeksforGeeks"
-         width="32" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://codeforces.com/profile/YOUR_USERNAME">
-    <img src="https://sta.codeforces.com/s/91837/images/codeforces-logo-with-telegram.png"
-         alt="Codeforces"
-         height="32" />
-  </a>
-</p>
-
 ---
 
 ## 🛠️ Technologies & Tools
