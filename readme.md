@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable application
 ## Connect with me:
 
 <p align="left">
-<a href="linkedin.com/in/mohammed-jamaluddin-4a1794316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="J" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohammed-jamaluddin-4a1794316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="J" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="J" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="J" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="J" height="30" width="40" /></a>
