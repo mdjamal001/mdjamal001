@@ -24,23 +24,36 @@ Welcome to my GitHub profile! I'm passionate about building scalable application
 
 ## 💻 Coding Profiles
 
+```html
 <p align="left">
-  <a href="https://leetcode.com/your-username">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <a href="https://leetcode.com/your-username" target="_blank">
+    <img
+      src="https://cdn.simpleicons.org/leetcode"
+      alt="LeetCode"
+      width="40"
+      height="40"
+    />
   </a>
 
-  <a href="https://www.codechef.com/users/your-username">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge"/>
+  <a href="https://www.geeksforgeeks.org/user/your-username" target="_blank">
+    <img
+      src="https://cdn.simpleicons.org/geeksforgeeks"
+      alt="GeeksforGeeks"
+      width="40"
+      height="40"
+    />
   </a>
 
-  <a href="https://codeforces.com/profile/your-username">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/>
-  </a>
-
-  <a href="https://www.geeksforgeeks.org/user/your-username">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  <a href="https://codeforces.com/profile/your-username" target="_blank">
+    <img
+      src="https://cdn.simpleicons.org/codeforces"
+      alt="Codeforces"
+      width="40"
+      height="40"
+    />
   </a>
 </p>
+```
 
 ---
 
