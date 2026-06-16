@@ -11,12 +11,13 @@ Welcome to my GitHub profile! I'm passionate about building scalable application
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="mailto:jamalmd2305@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail" alt="Gmail" width="40" height="40"/>
+  <a href="mailto:jamalmd2305@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="32" />
   </a>
+  &nbsp;&nbsp;&nbsp;
 
-  <a href="https://linkedin.com/in/mohammed-jamaluddin-4a1794316" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/mohammed-jamaluddin-4a1794316/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="32" />
   </a>
 </p>
 
@@ -25,31 +26,24 @@ Welcome to my GitHub profile! I'm passionate about building scalable application
 ## 💻 Coding Profiles
 
 <p align="left">
-  <a href="https://leetcode.com/your-username" target="_blank">
-    <img
-      src="https://cdn.simpleicons.org/leetcode"
-      alt="LeetCode"
-      width="40"
-      height="40"
-    />
+  <a href="https://leetcode.com/u/YOUR_USERNAME/">
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png"
+         alt="LeetCode"
+         width="32" />
   </a>
+  &nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.geeksforgeeks.org/user/your-username" target="_blank">
-    <img
-      src="https://cdn.simpleicons.org/geeksforgeeks"
-      alt="GeeksforGeeks"
-      width="40"
-      height="40"
-    />
+  <a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME/">
+    <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg"
+         alt="GeeksforGeeks"
+         width="32" />
   </a>
+  &nbsp;&nbsp;&nbsp;
 
-  <a href="https://codeforces.com/profile/your-username" target="_blank">
-    <img
-      src="https://cdn.simpleicons.org/codeforces"
-      alt="Codeforces"
-      width="40"
-      height="40"
-    />
+  <a href="https://codeforces.com/profile/YOUR_USERNAME">
+    <img src="https://sta.codeforces.com/s/91837/images/codeforces-logo-with-telegram.png"
+         alt="Codeforces"
+         height="32" />
   </a>
 </p>
 
@@ -58,9 +52,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable application
 ## 🛠️ Technologies & Tools
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=cpp,java,js,ts,react,nextjs,nodejs,express,mongodb,mysql,redis,git,github,linux,html,css,tailwind,reactivex,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,react,nextjs,nodejs,express,mongodb,mysql,redis,git,github,linux,html,css,tailwind,vscode&perline=9" />
 </p>
 
 ---
